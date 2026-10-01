@@ -99,6 +99,12 @@ The CNN provided reliable resistor detection, whilst colour-band recognition pre
 
 Geometric filtering, clustering and rule-based constraints were used to improve the reliability of the final resistance value calculation.
 
+<img width="315" height="217" alt="image" src="https://github.com/user-attachments/assets/1449888c-7ed3-4d09-9d18-9e82c8e2d0d5" />
+
+<img width="427" height="286" alt="image" src="https://github.com/user-attachments/assets/a4c23f31-65a2-4dfc-9e11-f548b4b96317" />
+
+<img width="805" height="116" alt="image" src="https://github.com/user-attachments/assets/2c8c2ceb-b7e9-4ac1-ad03-004643b5c46b" />
+
 
 ## Development Environment
 
