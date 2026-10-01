@@ -1,4 +1,4 @@
-# Resistor Detection & Value Recognition — CNN + OpenCV
+# Resistor Detection & Value Recognition - CNN + OpenCV
 
 A computer vision system developed in **Python** to detect resistors in images and recognise their colour bands to calculate resistance values.
 
@@ -34,7 +34,8 @@ The project combines a **Convolutional Neural Network (CNN)** for resistor detec
 
 ## Dataset
 
-The training dataset was sourced from **Kaggle** and contains a large collection of resistor images covering different resistance values, backgrounds and orientations.
+The training dataset was sourced from **Kaggle** and contains a large collection of resistor images covering different resistance values, backgrounds and orientations:
+https://www.kaggle.com/datasets/eralpozcan/resistor-dataset
 
 The dataset was organised into two classes:
 
